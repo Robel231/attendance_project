@@ -1,1 +1,3 @@
-simple attendance project by robel shemeles using python
+ttkthemes==3.2.2
+pandas==2.0.3
+openpyxl==3.1.2
